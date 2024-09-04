@@ -7,4 +7,4 @@ git add .
 git commit -m "Committing"
 
 # push changes
-git push origin main~
+git push origin
